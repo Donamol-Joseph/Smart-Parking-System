@@ -170,9 +170,18 @@ java ParkingSystemGrid
 
 # Screenshots
 
-## Main Dashboard
+# Application Preview
 
-<img width="850" alt="Dashboard" src="YOUR_SCREENSHOT_LINK_HERE"/>
+<div align="center">
+
+<img width="1000" src="./assets/preview.png"/>
+
+<br/>
+<br/>
+
+Interactive Java Swing Smart Parking Dashboard
+
+</div>
 
 ---
 
