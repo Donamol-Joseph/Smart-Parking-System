@@ -18,16 +18,6 @@ Designed to simulate real-world parking slot allocation with an interactive GUI,
 
 ---
 
-# Preview
-
-<div align="center">
-
-<img width="850" alt="Smart Parking System" src="YOUR_SCREENSHOT_LINK_HERE"/>
-
-</div>
-
----
-
 # Features
 
 ## Interactive Parking Dashboard
